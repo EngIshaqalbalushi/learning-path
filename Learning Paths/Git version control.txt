@@ -1,0 +1,71 @@
+ 1- Git version control?
+- the git is version control system that helps developers manage and track changes in their code to ensuring the integrity of those changes at each stage of processing
+-git used in software development projects to manage changes to source code 
+
+
+
+2-Cloud Repositories Using Git
+A-GotHub
+-offers private repostiories and solid security features, it is world most pupular platform for hosting  git
+
+B-GitLab
+- a fully  free and open source service desigend for git, wide range of features for project management
+
+C- Bitbucket
+- supports both git and mercurial code management and is another platform that hosts git 
+
+
+
+3-Git commands
+A-git init
+-
+B-git clone
+-
+C-git add file name
+-
+D-git add .
+-
+F- git commit -m "message"
+-
+H- git status
+-
+K-git log --oneline
+-
+L-git remote add alias url
+-
+O- git push
+-
+G- git pull
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.atlassian.com/git/tutorials/what-is-version-control
