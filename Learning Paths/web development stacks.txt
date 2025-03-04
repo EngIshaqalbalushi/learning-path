@@ -1,0 +1,52 @@
+1- web application 
+A-Frontend
+-front end web development is the development of the graphical user interface of website
+B- backend
+-backend refers to the server side part of website or application that processes data and ensures everthing works behind the scenes 
+C-Database
+-database is collection of data which can include deffreint type of data like words, numbers, images, files
+
+2-Web Development Stacks
+A-The MERN Stack
+-conmponent: MangoDB,express, angular,node js
+-single page application
+-when want use javescrip for frond end and back end
+B-The MEAN stack
+-Components:MongoDB,Express,Vue,Node
+C-.net stack
+-components :microsoft sql sereve , C# , angular/ react
+-enterprise applications
+-when working within the microsoft ecosystem
+
+3-.NET STACK
+-open source developer platform made up of programming languages and libraries ofr building modern
+- there are various implemntations of .net that allow the .net code execute on different oprating system
+-C# F# and visual basic are the three microsoft supported languages for net development
+-Visual Studio Code for frond end design
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://en.wikipedia.org/wiki/Front-end_web_development
+https://www.fingent.com/blog/top-7-tech-stacks-that-reign-software-development/
