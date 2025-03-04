@@ -18,29 +18,29 @@ C- Bitbucket
 
 3-Git commands
 A-git init
--
+- command creates a new git repository
 B-git clone
--
+-cloning a local or remote repository
 C-git add file name
--
+- command adds a change in the working directory to the stageing area
 D-git add .
--
+-command adds all a change in the working directory to the stageing area
 F- git commit -m "message"
--
+-command captures a snapshot of the project currently staged changes
 H- git status
--
+-command displays the state of the working directory and the staging area
 K-git log --oneline
--
+-command to record changes ot your code
 L-git remote add alias url
--
+-command lets you create view and delete connctions are more
 O- git push
--
+-command is used to upload local repository content to a remote repository
 G- git pull
+-command is used to fetch and download content from a remote repository and immediately update the local repository to match that conten
 
 
 
-
-
+https://www.atlassian.com/
 
 
 
