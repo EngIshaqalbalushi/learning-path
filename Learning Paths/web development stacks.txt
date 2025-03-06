@@ -2,26 +2,29 @@
 A-Frontend
 -front end web development is the development of the graphical user interface of website
 B- backend
--backend refers to the server side part of website or application that processes data and ensures everthing works behind the scenes 
+-backend refers to the server side part of website or application that processes data and ensures everything works behind the scenes 
 C-Database
--database is collection of data which can include deffreint type of data like words, numbers, images, files
+-database is collection of data which can include different type of data like words, numbers, images, files
 
 2-Web Development Stacks
+
 A-The MERN Stack
--conmponent: MangoDB,express, angular,node js
+-Components: Mango DB, express, angular, node js
 -single page application
--when want use javescrip for frond end and back end
+-when want use JavaScript for frond end and back end
+
 B-The MEAN stack
--Components:MongoDB,Express,Vue,Node
+-Components: MongoDB, Express, Vue, Node js 
+
 C-.net stack
--components :microsoft sql sereve , C# , angular/ react
+-components :Microsoft sql sereve , C# , angular/ react
 -enterprise applications
--when working within the microsoft ecosystem
+-when working within the Microsoft ecosystem
 
 3-.NET STACK
--open source developer platform made up of programming languages and libraries ofr building modern
-- there are various implemntations of .net that allow the .net code execute on different oprating system
--C# F# and visual basic are the three microsoft supported languages for net development
+-open source developer platform made up of programming languages and libraries for building modern
+- there are various implementations of .net that allow the .net code execute on different operating system
+-C# F# and visual basic are the three Microsoft supported languages for net development
 -Visual Studio Code for frond end design
 -
 

@@ -1,15 +1,15 @@
  1- Git version control?
 - the git is version control system that helps developers manage and track changes in their code to ensuring the integrity of those changes at each stage of processing
 -git used in software development projects to manage changes to source code 
-
+working space staging area repositors re 
 
 
 2-Cloud Repositories Using Git
-A-GotHub
--offers private repostiories and solid security features, it is world most pupular platform for hosting  git
+A-GitHub
+-offers private repositories and solid security features, it is world most popular platform for hosting  git
 
 B-GitLab
-- a fully  free and open source service desigend for git, wide range of features for project management
+- a fully  free and open source service designed for git, wide range of features for project management
 
 C- Bitbucket
 - supports both git and mercurial code management and is another platform that hosts git 
@@ -30,7 +30,7 @@ F- git commit -m "message"
 H- git status
 -command displays the state of the working directory and the staging area
 K-git log --oneline
--command to record changes ot your code
+-command to record changes to your code
 L-git remote add alias url
 -command lets you create view and delete connctions are more
 O- git push

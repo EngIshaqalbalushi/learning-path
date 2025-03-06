@@ -1,11 +1,11 @@
-<<<<<<< HEAD
+
 Agile and Scrum
 
 1-what is agile?
 
 agile methodology is project management framework that breaks projects set of parts 
 
-agile methodology is widely used because it offers several key benefits that address ths challnges of traditionl project management approaches.
+agile methodology is widely used because it offers several key benefits that address the challenges of traditional project management approaches.
 
 
  2-compare between agile and waterfall models
@@ -13,41 +13,41 @@ agile methodology
 A-the agile methodology places emphasis on flexible iterative progress by breaking the project into smaller more manageable units of work
 
 advantage
-- agile tesams are often faster and more efficient
+- agile teams are often faster and more efficient
 disadvantage
 -the agile methodology works best when the key stakeholders take an active role in the project if these stakeholders can't provide their input and collaboration as needed the project might not be a success
 
 
 
 
-waterfull methodology
-B-the waterfull model is a rigid hightly  structured approach that requires the execution of the project to be defined before any work can begin
+waterfall methodology
+B-the waterfall model is a rigid highly  structured approach that requires the execution of the project to be defined before any work can begin
 advantage
--wahterfull takes a highly structured and rigid approach to helping eliminate uncertainty while providing specific roles for evey team member
+-waterfall takes a highly structured and rigid approach to helping eliminate uncertainty while providing specific roles for every team member
 disadvantage
--since wahaterfull doesn't rely on the input of stakeholders during the project lifecycle it isn't a great solution for those who want ot have direct input
+-since waterfall doesn't rely on the input of stakeholders during the project lifecycle it isn't a great solution for those who want to have direct input
 
 
 3- agile frameworks 
  A- kanban
--the kanban board is divided into multiple columns to peroperly depict the process flow for the development of software
+-the kanban board is divided into multiple columns to properly depict the process flow for the development of software
 
 B-scrum
 -scrum focuses on breaking down a single project into multiple parts
 
 4-explain scrum
 A-timing 
--sprint duration : 3 to 4 weeks
+-sprint duration :  to 4 weeks
 -sprint planning: 7 hours
 -daily scrum: 15 minutes
 
 B-meetings
 -Sprint: fixed length iteration
--sprint planning:finding goad and select work 
+-sprint planning: finding goad and select work 
 
 C-roles
--project owner: manages the product backloy like features, coustmer needs
--scrum master: ensuring the team adhers to scrum practices
+-project owner: manages the product backlog like features, costumer needs
+-scrum master: ensuring the team adheres to scrum practices
 
 
 
